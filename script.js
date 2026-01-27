@@ -48,7 +48,7 @@ const providers = [
   },
   {
     name: "Mister Photobooth",
-    category: "Photographe",
+    category: "photographe",
     description: "Nous sommes une entreprise spécialisée dans la location de photobooth pour tous types d'événements, tels que les mariages, les fiançailles, les baby showers",
     website: "https://misterphotobooth.fr/"},
 ];

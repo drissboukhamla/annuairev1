@@ -25,13 +25,13 @@ const providers = [
   },
   {
     name: "Amine Photographe",
-    category: "Photographe",
+    category: "photographe",
     description: "Mariage/Événements/Famille Scénographie",
     website: "https://www.instagram.com/amine_photographe_mariage_"
    },
   {
     name: "Hatim Cameraman",
-    category: "Photographe",
+    category: "photographe",
     description: "Cameraman de mariage, je réalise des films élégants et émouvants pour revivre votre plus beau jour.",
     website: "https://www.facebook.com/hatim.alili/?locale=fr_FR"
   },

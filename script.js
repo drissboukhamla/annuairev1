@@ -77,6 +77,12 @@ const providers = [
     description: "Pour que votre mariage soit une réussite totale et se déroule dans un cadre qui vous garantit joie et convivialité, faites confiance à Camélia Palace. Cette salle accueillante et chaleureuse fera de votre banquet un moment véritablement magique pour vous et tous vos proches. ",
     website: "https://www.mariages.net/salle-mariage/camelia-palace--e139150"
       },
+  {
+    name: "Espace Arena",
+    category: "Lieu",
+    description: "Futurs mariés, bienvenus à l’Espace Arena ! Ce lieu de réception enchanteur et spacieux est parfait pour une célébration de grande envergure tel que votre mariage ! Les propriétaires avenants et disponibles vous attendent avec impatience pour mettre en place votre plus belle fête. N’attendez plus, venez les rencontrer ! ",
+    website: "https://www.mariages.net/salle-mariage/espace-arena--e280676"
+      },
 ];
 
 const container = document.getElementById("providers");

@@ -83,6 +83,12 @@ const providers = [
     description: "Futurs mariés, bienvenus à l’Espace Arena ! Ce lieu de réception enchanteur et spacieux est parfait pour une célébration de grande envergure tel que votre mariage ! Les propriétaires avenants et disponibles vous attendent avec impatience pour mettre en place votre plus belle fête. N’attendez plus, venez les rencontrer ! ",
     website: "https://www.mariages.net/salle-mariage/espace-arena--e280676"
       },
+  {
+    name: "Mina Kouk",
+    category: "traiteur",
+    description: "Faites de votre mariage une journée inoubliable avec l'expertise de Mina Kouk Traiteur à Marseille. ",
+    website: "https://www.mariages.net/traiteur-mariage/mina-kouk--e145497"
+      },
 ];
 
 const container = document.getElementById("providers");

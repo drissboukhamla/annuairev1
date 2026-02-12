@@ -89,6 +89,18 @@ const providers = [
     description: "Faites de votre mariage une journée inoubliable avec l'expertise de Mina Kouk Traiteur à Marseille. ",
     website: "https://www.mariages.net/traiteur-mariage/mina-kouk--e145497"
       },
+  {
+    name: "The one traiteur",
+    category: "traiteur",
+    description: "Nous investissons toute notre créativité et notre capacité organisationnelle pour faire de votre réception, un moment inoubliable. ",
+    website: "https://www.theonetraiteur.com/"
+      },
+  {
+    name: "Terre de mars ",
+    category: "traiteur",
+    description: "Nous investissons toute notre créativité et notre capacité organisationnelle pour faire de votre réception, un moment inoubliable. ",
+    website: "https://www.terredemars.fr/traiteur-mariage-a-marseille/"
+      },
 ];
 
 const container = document.getElementById("providers");

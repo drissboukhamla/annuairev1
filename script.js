@@ -39,7 +39,8 @@ const providers = [
     name: "Warren Sax",
     category: "DJ",
     description: "Un artiste d'exception, capable de vous faire rêver et d'immortaliser votre événement",
-    website: "https://www.warren-sax.fr/"},
+    website: "https://www.warren-sax.fr/"
+  },
   {
     name: "Photobooth marseillais ",
     category: "photographe",
@@ -50,7 +51,8 @@ const providers = [
     name: "Mister Photobooth",
     category: "photographe",
     description: "Nous sommes une entreprise spécialisée dans la location de photobooth pour tous types d'événements, tels que les mariages, les fiançailles, les baby showers",
-    website: "https://misterphotobooth.fr/"},
+    website: "https://misterphotobooth.fr/"
+  },
   {
     name: "Florida palace ",
     category: "Lieu",
@@ -68,6 +70,7 @@ const providers = [
     category: "Lieu",
     description: "Niché aux portes de Cassis, à Marseille, ce lieu d’exception offre un cadre idéal pour organiser vos réceptions, qu’elles soient privées ou professionnelles. ",
     website: "https://www.mariages.net/salle-mariage/le-domaine-des-calanques--e392739"
+      },
 ];
 
 const container = document.getElementById("providers");

@@ -101,6 +101,18 @@ const providers = [
     description: "Nous investissons toute notre créativité et notre capacité organisationnelle pour faire de votre réception, un moment inoubliable. ",
     website: "https://www.terredemars.fr/traiteur-mariage-a-marseille/"
       },
+  {
+    name: "Athéa's Création ",
+    category: "décorateur",
+    description: "Mettez de l’originalité dans votre mariage en faisant appel à une conceptrice/créatrice d’ambiances décoratives. Athéa’s Création vous propose ses services « sur mesure » à la vente, pour que vous puissiezavoir une décoration qui vous ressemble. ",
+    website: "https://www.mariages.net/decoration-mariage/atheas-creation--e134187"
+      },
+   {
+    name: "Cerise d’Amour",
+    category: "décorateur",
+    description: "Agence de scénographie événementielle, Cerise d’Amour a pour but de sublimer des instants de vie par des décors et mises en scène uniques et recherchées. Elle porte une attention toute particulière au moment qui restera graver dans vos mémoires. ",
+    website: "https://www.mariages.net/decoration-mariage/cerise-d-amour--e397097"
+      },
 ];
 
 const container = document.getElementById("providers");

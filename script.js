@@ -51,6 +51,12 @@ const providers = [
     category: "photographe",
     description: "Nous sommes une entreprise spécialisée dans la location de photobooth pour tous types d'événements, tels que les mariages, les fiançailles, les baby showers",
     website: "https://misterphotobooth.fr/"},
+  {
+    name: "Florida palace ",
+    category: "Lieu",
+    description: "Situé à Marseille, le Florida Palace vous propose d'organiser une réception de mariage à votre image dans un cadre prestigieux qui fera de votre mariage une célébration inoubliable",
+    website: "https://www.mariages.net/salle-mariage/florida-palace--e28573?cmp=ADW-SEM-PMAX-VENUES&utm_source=google&utm_medium=paid-search&utm_campaign=VENUES-Pmax-B2C-Marketplace&utm_content=performance_cpm_search-ad_na_na&gclid=CjwKCAiAkbbMBhB2EiwANbxtbZdJ0OFQiZzCfZol423j1ZuOssEV7sgm-uQbkV3sLi43sRzcjdm0JxoCzdMQAvD_BwE"
+  },
 ];
 
 const container = document.getElementById("providers");

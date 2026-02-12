@@ -63,6 +63,11 @@ const providers = [
     description: "Offrez-vous un mariage de prestige dans un décor moderne et design pour votre plus grand plaisir. Le Buz vous accueille à la Valentine à deux pas du Château de la Buzine pour une réception de mariage des plus festives dans un cadre idyllique.",
     website: "https://www.mariages.net/salle-mariage/le-buz--e133244"
   },
+   {
+    name: "Le Domaine des Calanques ",
+    category: "Lieu",
+    description: "Niché aux portes de Cassis, à Marseille, ce lieu d’exception offre un cadre idéal pour organiser vos réceptions, qu’elles soient privées ou professionnelles. ",
+    website: "https://www.mariages.net/salle-mariage/le-domaine-des-calanques--e392739"
 ];
 
 const container = document.getElementById("providers");

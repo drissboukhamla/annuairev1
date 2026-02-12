@@ -103,13 +103,13 @@ const providers = [
       },
   {
     name: "Athéa's Création ",
-    category: "décorateur",
+    category: "decorateur",
     description: "Mettez de l’originalité dans votre mariage en faisant appel à une conceptrice/créatrice d’ambiances décoratives. Athéa’s Création vous propose ses services « sur mesure » à la vente, pour que vous puissiezavoir une décoration qui vous ressemble. ",
     website: "https://www.mariages.net/decoration-mariage/atheas-creation--e134187"
       },
    {
     name: "Cerise d’Amour",
-    category: "décorateur",
+    category: "decorateur",
     description: "Agence de scénographie événementielle, Cerise d’Amour a pour but de sublimer des instants de vie par des décors et mises en scène uniques et recherchées. Elle porte une attention toute particulière au moment qui restera graver dans vos mémoires. ",
     website: "https://www.mariages.net/decoration-mariage/cerise-d-amour--e397097"
       },

@@ -60,13 +60,13 @@ const providers = [
     website: "https://www.mariages.net/salle-mariage/florida-palace--e28573?cmp=ADW-SEM-PMAX-VENUES&utm_source=google&utm_medium=paid-search&utm_campaign=VENUES-Pmax-B2C-Marketplace&utm_content=performance_cpm_search-ad_na_na&gclid=CjwKCAiAkbbMBhB2EiwANbxtbZdJ0OFQiZzCfZol423j1ZuOssEV7sgm-uQbkV3sLi43sRzcjdm0JxoCzdMQAvD_BwE"
   },
   {
-    name: "Le Buz ",
+    name: "Le Buz",
     category: "Lieu",
     description: "Offrez-vous un mariage de prestige dans un décor moderne et design pour votre plus grand plaisir. Le Buz vous accueille à la Valentine à deux pas du Château de la Buzine pour une réception de mariage des plus festives dans un cadre idyllique.",
     website: "https://www.mariages.net/salle-mariage/le-buz--e133244"
   },
    {
-    name: "Le Domaine des Calanques ",
+    name: "Le Domaine des Calanques",
     category: "Lieu",
     description: "Niché aux portes de Cassis, à Marseille, ce lieu d’exception offre un cadre idéal pour organiser vos réceptions, qu’elles soient privées ou professionnelles. ",
     website: "https://www.mariages.net/salle-mariage/le-domaine-des-calanques--e392739"

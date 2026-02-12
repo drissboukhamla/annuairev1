@@ -113,6 +113,36 @@ const providers = [
     description: "Agence de scénographie événementielle, Cerise d’Amour a pour but de sublimer des instants de vie par des décors et mises en scène uniques et recherchées. Elle porte une attention toute particulière au moment qui restera graver dans vos mémoires. ",
     website: "https://www.mariages.net/decoration-mariage/cerise-d-amour--e397097"
       },
+   {
+    name: "Dj Slh",
+    category: "DJ",
+    description: "FRENCH ARTISTE :AMAPIANO/ URBAN / ORIENTAL CHIC / AFRO-HOUSE / MIXED",
+    website: "https://www.instagram.com/djslh_marseille/"
+  },
+  {
+    name: "Eventi Loc",
+    category: "decorateur",
+    description: "Location de décoration et de mobilier événementiel Bouches du Rhône",
+    website: "https://www.facebook.com/p/Eventi-Loc-61566782285068/"
+  },
+  {
+    name: "luxprod.concept",
+    category: "photographe",
+    description: "Photographe Film maker Mariage & fiançailles",
+    website: "https://www.instagram.com/luxprod.concept/"
+  },
+  {
+    name: "les.domaines.de.manel",
+    category: "lieu",
+    description: "Vous avez choisi de vous unir et vous cherchez désormais le précieux écrin digne d'accueillir vos proches, amis et familles pour une réception conviviale et mémorable ? Découvrez Les Domaines de Manel. Ce superbe lieu, grâce à son charme authentique, moderne et chaleureux, sera parfait. Personnalisable en fonction de vos besoins, il sera idéal pour faire de votre mariage un événement à votre image.",
+    website: "https://www.instagram.com/les.domaines.de.manel/"
+    },
+  {
+    name: "mlaphotographie_wedding",
+    category: "photographe",
+    description: "​​VOS SOUVENIRS, MA PASSION Parce que chacun d'entre nous a sa propre histoire...",
+    website: "https://www.moussalaribi.com/"
+  },
 ];
 
 const container = document.getElementById("providers");

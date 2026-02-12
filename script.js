@@ -71,6 +71,12 @@ const providers = [
     description: "Niché aux portes de Cassis, à Marseille, ce lieu d’exception offre un cadre idéal pour organiser vos réceptions, qu’elles soient privées ou professionnelles. ",
     website: "https://www.mariages.net/salle-mariage/le-domaine-des-calanques--e392739"
       },
+  {
+    name: "Camélia Palace",
+    category: "Lieu",
+    description: "Pour que votre mariage soit une réussite totale et se déroule dans un cadre qui vous garantit joie et convivialité, faites confiance à Camélia Palace. Cette salle accueillante et chaleureuse fera de votre banquet un moment véritablement magique pour vous et tous vos proches. ",
+    website: "https://www.mariages.net/salle-mariage/camelia-palace--e139150"
+      },
 ];
 
 const container = document.getElementById("providers");

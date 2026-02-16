@@ -143,6 +143,12 @@ const providers = [
     description: "​​VOS SOUVENIRS, MA PASSION Parce que chacun d'entre nous a sa propre histoire...",
     website: "https://www.moussalaribi.com/"
   },
+   {
+    name: "Dj Sow",
+    category: "Dj",
+    description: "​​Club Mariage tout type d'evenement",
+    website: "https://www.instagram.com/dj_sow13/"
+  },
 ];
 
 const container = document.getElementById("providers");

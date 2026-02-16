@@ -145,7 +145,7 @@ const providers = [
   },
    {
     name: "Dj Sow",
-    category: "Dj",
+    category: "DJ",
     description: "​​Club Mariage tout type d'evenement",
     website: "https://www.instagram.com/dj_sow13/"
   },

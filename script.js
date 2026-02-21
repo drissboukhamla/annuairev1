@@ -149,6 +149,12 @@ const providers = [
     description: "​​Club Mariage tout type d'evenement",
     website: "https://www.instagram.com/dj_sow13/"
   },
+   {
+    name: "Ak production",
+    category: "photographe",
+    description: "​​ je travaille régulièrement dans l’audiovisuel, que ce soit en tant que photographe, réalisateur, producteur, chef opérateur, monteur, coloriste et post production auprès de différentes entreprises et particuliers",
+    website: "https://www.ak-production.fr/"
+  },
 ];
 
 const container = document.getElementById("providers");

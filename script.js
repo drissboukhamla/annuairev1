@@ -167,7 +167,12 @@ const providers = [
     description: "​​ 𝐂𝐚𝐩𝐭𝐮𝐫𝐞 𝐯𝐨𝐬 𝐦𝐚𝐫𝐢𝐚𝐠𝐞𝐬 𝐞𝐧 𝐢𝐦𝐚𝐠𝐞𝐬⚡️❤️⚡️ Photographe & Vidéaste professionnel ",
     website: "https://www.instagram.com/ramy_mariage/"
   },
-];
+    {
+    name: "Dj Mehdi",
+    category: "Dj",
+    description: "​​Dj Mehdi🎧 créateur d’émotions et de souvenirs. Transformant chaque soirée en expérience musicale inoubliable. ",
+    website: "https://djmehdiofficiel.com/"
+  },];
 
 const container = document.getElementById("providers");
 const searchInput = document.getElementById("searchInput");

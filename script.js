@@ -155,6 +155,12 @@ const providers = [
     description: "​​ je travaille régulièrement dans l’audiovisuel, que ce soit en tant que photographe, réalisateur, producteur, chef opérateur, monteur, coloriste et post production auprès de différentes entreprises et particuliers",
     website: "https://www.ak-production.fr/"
   },
+    {
+    name: "Helice.rose",
+    category: "photographe",
+    description: "​​ 𝕕𝕣𝕠𝕟𝕖 ℙ𝕚𝕝𝕠𝕥𝕖 ",
+    website: "https://www.instagram.com/helice.rose/"
+  },
 ];
 
 const container = document.getElementById("providers");

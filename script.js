@@ -179,6 +179,12 @@ const providers = [
     description: "​​ TRAITEUR-DECORATION EVENEMENTIELLE Marseille et alentours ",
     website: "https://www.instagram.com/traiteurreception/"
   },
+  {
+    name: "djamel sawar",
+    category: "photographe",
+    description: "​​ 📸 #Photographe🇫🇷📍Marseille Photographe mariage depuis 2009, je saurai immortaliser vos plus beaux moments. ",
+    website: "https://www.instagram.com/djamelsawar/"
+  },
 ];
 
 const container = document.getElementById("providers");

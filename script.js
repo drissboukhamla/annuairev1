@@ -161,6 +161,12 @@ const providers = [
     description: "​​ 𝕕𝕣𝕠𝕟𝕖 ℙ𝕚𝕝𝕠𝕥𝕖 ",
     website: "https://www.instagram.com/helice.rose/"
   },
+    {
+    name: "ramy_mariage",
+    category: "photographe",
+    description: "​​ 𝐂𝐚𝐩𝐭𝐮𝐫𝐞 𝐯𝐨𝐬 𝐦𝐚𝐫𝐢𝐚𝐠𝐞𝐬 𝐞𝐧 𝐢𝐦𝐚𝐠𝐞𝐬⚡️❤️⚡️ Photographe & Vidéaste professionnel ",
+    website: "https://www.instagram.com/ramy_mariage/"
+  },
 ];
 
 const container = document.getElementById("providers");

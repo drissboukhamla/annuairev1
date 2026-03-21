@@ -172,7 +172,14 @@ const providers = [
     category: "Dj",
     description: "​​Dj Mehdi🎧 créateur d’émotions et de souvenirs. Transformant chaque soirée en expérience musicale inoubliable. ",
     website: "https://djmehdiofficiel.com/"
-  },];
+    },
+   {
+    name: "traiteur Reception",
+    category: "traiteur",
+    description: "​​ TRAITEUR-DECORATION EVENEMENTIELLE Marseille et alentours ",
+    website: "https://www.instagram.com/traiteurreception/"
+  },
+];
 
 const container = document.getElementById("providers");
 const searchInput = document.getElementById("searchInput");

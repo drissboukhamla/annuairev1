@@ -185,6 +185,12 @@ const providers = [
     description: "​​ 📸 #Photographe🇫🇷📍Marseille Photographe mariage depuis 2009, je saurai immortaliser vos plus beaux moments. ",
     website: "https://www.instagram.com/djamelsawar/"
   },
+  {
+    name: "Luma Traiteur",
+    category: "traiteur",
+    description: "​​Une expertise complète pour des mariages élégants – Traiteur & Wedding Planner d’exception Depuis plusieurs années, cette maison culinaire met son savoir-faire au service de mariages raffinés et parfaitement orchestrés. Quelle que soit la destination choisie par les futurs mariés, elle propose une approche sur-mesure, moderne et pensée dans les moindres détails.Chaque prestation est imaginée pour s’adapter à la vision et aux priorités de chaque couple, tout en préservant un niveau d’exigence élevé.",
+    website: "https://www.mariages.net/traiteur-mariage/luma-traiteur--e404213"
+  },
 ];
 
 const container = document.getElementById("providers");

@@ -191,6 +191,12 @@ const providers = [
     description: "​​Une expertise complète pour des mariages élégants – Traiteur & Wedding Planner d’exception Depuis plusieurs années, cette maison culinaire met son savoir-faire au service de mariages raffinés et parfaitement orchestrés. Quelle que soit la destination choisie par les futurs mariés, elle propose une approche sur-mesure, moderne et pensée dans les moindres détails.Chaque prestation est imaginée pour s’adapter à la vision et aux priorités de chaque couple, tout en préservant un niveau d’exigence élevé.",
     website: "https://www.mariages.net/traiteur-mariage/luma-traiteur--e404213"
   },
+   {
+    name: "photographie_dou",
+    category: "photographe",
+    description: "Photographe de mariage ",
+    website: "https://www.instagram.com/photographie_dou/"
+  },
 ];
 
 const container = document.getElementById("providers");

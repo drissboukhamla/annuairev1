@@ -201,7 +201,7 @@ const providers = [
     name: "photobooth miroirs ",
     category: "photographe",
     description: "photobooth miroir et livre d or audio ",
-    website: "https://www.instagram.com/monbeaumiroir.photobooth?igsh=MWRiNjdhcDQ0dXVwZw=="
+    website: "https://kentagence.com/photobooth"
   },
 ];
 

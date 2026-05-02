@@ -197,6 +197,12 @@ const providers = [
     description: "Photographe de mariage ",
     website: "https://www.instagram.com/photographie_dou/"
   },
+  {
+    name: "photobooth miroirs ",
+    category: "photographe",
+    description: "photobooth miroir et livre d or audio ",
+    website: "https://www.instagram.com/monbeaumiroir.photobooth?igsh=MWRiNjdhcDQ0dXVwZw=="
+  },
 ];
 
 const container = document.getElementById("providers");

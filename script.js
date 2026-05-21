@@ -203,6 +203,12 @@ const providers = [
     description: "photobooth miroir et livre d or audio ",
     website: "https://kentagence.com/photobooth"
   },
+  {
+    name: "maison crystal ",
+    category: "lieu",
+    description: "Maison Crystal vous accompagne dans tous vos projets avec une gamme complète de prestations haut de gamme. ",
+    website: "https://lamaisoncrystal.fr/"
+  },
 ];
 
 const container = document.getElementById("providers");

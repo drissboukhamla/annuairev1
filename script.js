@@ -209,6 +209,12 @@ const providers = [
     description: "Maison Crystal vous accompagne dans tous vos projets avec une gamme complète de prestations haut de gamme. ",
     website: "https://lamaisoncrystal.fr/"
   },
+  {
+    name: "Verano Event ",
+    category: "decorateur",
+    description: "Passionée et à l'écoute,je vous accompagne dans l'organisation de vos évènements pour créer des souvenirs inoubliables ",
+    website: "https://www.instagram.com/veranoevent"
+  },
 ];
 
 const container = document.getElementById("providers");

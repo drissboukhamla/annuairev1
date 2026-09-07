@@ -4,6 +4,7 @@ const providers = [
     category: "photographe",
     description: "Photographe Videaste  de mariage professionnel",
     website: "https://www.jmranaivoson.com/"
+    logo: "https://dvqlxo2m2q99q.cloudfront.net/000_clients/457491/file/45749121SJzYo4.png"
   },
   {
     name: "Regard Neuf Films",

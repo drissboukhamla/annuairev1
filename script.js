@@ -215,6 +215,12 @@ const providers = [
     description: "Passionée et à l'écoute,je vous accompagne dans l'organisation de vos évènements pour créer des souvenirs inoubliables ",
     website: "https://www.instagram.com/veranoevent"
   },
+   {
+    name: "la cantine terrasse en ville",
+    category: "traiteur",
+    description: "Une cantine conviviale et service traiteur mariage au 4 boulevard Bigonnet, 13012 Marseille, idéale pour un déjeuner sur sa terrasse ou pour vos plus beaux événements. ",
+    website: "https://www.instagram.com/lacantine_terrasseenville/"
+      },
 ];
 
 const container = document.getElementById("providers");

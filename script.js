@@ -221,6 +221,12 @@ const providers = [
     description: "Une cantine conviviale et service traiteur mariage au 4 boulevard Bigonnet, 13012 Marseille, idéale pour un déjeuner sur sa terrasse ou pour vos plus beaux événements. ",
     website: "https://www.instagram.com/lacantine_terrasseenville/"
       },
+   {
+    name: "ms-club./",
+    category: "lieu",
+    description: "Un lieu chaleureux pour célébrer vos événements privés ",
+    website: "https://www.ms-club.fr/details-location+de+salle+pour+anniversaire+et+bapteme+a+marseille+dans+les+bouches+du+rhone-542"
+      },
 ];
 
 const container = document.getElementById("providers");
